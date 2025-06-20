@@ -1,5 +1,5 @@
 ### Meow meow meow
-Part of the [cat's cult](https://www.github.com/MaoMao-Corp)
+Member of the [cat's cult](https://www.github.com/MaoMao-Corp)
 miau meow mao miao                               
 ```
   _ __ ___   ___  _____      __
