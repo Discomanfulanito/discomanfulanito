@@ -4,7 +4,7 @@ miau meow mao miao
 - get to Challenger in League (bronze IV)
 - 112% in Hollow Knight (106%)
 - Legendary Grandmaster in Codeforces (no rank, womp womp)
-- Discover who is Anna (Anna's Archive)
+- Discover who Anna is (Anna's Archive)
 <!--
 **Discomanfulanito/discomanfulanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
