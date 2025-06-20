@@ -1,6 +1,8 @@
 ### Meow meow meow
 miau meow mao miao
-
+# TODO
+- exit silver IV in League
+- 112% in Hollow Knight
 <!--
 **Discomanfulanito/discomanfulanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
