@@ -1,8 +1,10 @@
 ### Meow meow meow
 miau meow mao miao
 # TODO 🤓
-- exit silver IV in League
-- 112% in Hollow Knight
+- get to Challenger in League (bronze IV)
+- 112% in Hollow Knight (106%)
+- Legendary Grandmaster in Codeforces (no rank, womp womp)
+- Discover who is Anna (Anna's Archive)
 <!--
 **Discomanfulanito/discomanfulanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
