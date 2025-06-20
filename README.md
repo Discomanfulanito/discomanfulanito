@@ -1,5 +1,14 @@
 ### Meow meow meow
-miau meow mao miao
+miau meow mao miao                               
+                               
+  _ __ ___   ___  _____      __
+ | '_ ` _ \ / _ \/ _ \ \ /\ / /
+ | | | | | |  __/ (_) \ V  V / 
+ |_| |_| |_|\___|\___/ \_/\_/  
+                               
+                               
+
+
 # TODO 🤓
 - get to Challenger in League (bronze IV)
 - 112% in Hollow Knight (106%)
