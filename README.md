@@ -28,4 +28,5 @@ Languages: Spanish, Catalan, English.
 
 ## Let's connect
 Open to collaborations and questions about my work
+
 [LinkedIn](https://www.linkedin.com/in/pablo-necpas-alba-091269182/) • pablonecpas@proton.me
