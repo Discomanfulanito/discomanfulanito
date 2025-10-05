@@ -1,30 +1,31 @@
 
 # Hey there 👋
-I'm a third-year AI student building stuff and learning in public as well as a language nerd. I also started maths' degree this year
+I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in AI and mathematics.
 
-## What I'm working on
-Currently focused on machine learning projects and AI applications. Check out my pinned repos below or visit my organization where I collaborate on larger projects.
+## What I'm Building
+Focused on machine learning applications and AI tooling. Check out my pinned repos or visit my organization for collaborative projects.
 
-## Tech I use
-• Python • TensorFlow • PyTorch • scikit-learn
+## Tech Stack
 
-• HTML5 • CSS • JS • ReactJS • NextJS
+ML/AI: Python • TensorFlow • PyTorch • scikit-learn
 
-• Lua
+Web: HTML5 • CSS • JavaScript • React • Next.js
 
-• Git • Bash • Linux
+Other: Lua • Docker • PostgreSQL • Git • Bash • Linux
 
-## Projects worth checking out
-![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - Automated translator-customer matching algorithm
+## Projects
+![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - Web app with ML-powered translator-customer matching algorithm
 
-[Project Name 2] - brief description
+![MaoMao Dict](https://github.com/MaoMao-Corp/MaoMao-dict) - Browser extension popup dictionary to help language learners
 
-[Project Name 3] - brief description
+![PokeFetch](https://github.com/Discomanfulanito/Pokefetch) - Fastfetch mod that displays Pokemon sprite in your terminal 
 
-## Miscellaneous
-Active Anna's Archive voluntary mantainer. I speak Spanish, Catalan, English.
 
-## Get in touch
-Feel free to reach out if you want to collaborate or have any doubt about my profile.
+## Community
+Active volunteer maintainer for Anna's Archive. 
 
+Languages: Spanish, Catalan, English.
+
+## Let's connect
+Open to collaborations and questions about my work
 [LinkedIn](https://www.linkedin.com/in/pablo-necpas-alba-091269182/) • pablonecpas@proton.me
