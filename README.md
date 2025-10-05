@@ -1,32 +1,30 @@
-### Meow meow meow
-Member of the [cat's cult](https://www.github.com/MaoMao-Corp)
-miau meow mao miao                               
-```
-  _ __ ___   ___  _____      __
- | '_ ` _ \ / _ \/ _ \ \ /\ / /
- | | | | | |  __/ (_) \ V  V / 
- |_| |_| |_|\___|\___/ \_/\_/
-```
-                               
-                               
 
+# Hey there 👋
+I'm a third-year AI student building stuff and learning in public as well as a language nerd. I also started maths' degree this year
 
-# TODO 🤓
-- get to Challenger in League (bronze IV)
-- 112% in Hollow Knight (106%)
-- Legendary Grandmaster in Codeforces (no rank, womp womp)
-- Discover who Anna is (Anna's Archive)
-<!--
-**Discomanfulanito/discomanfulanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+Currently focused on machine learning projects and AI applications. Check out my pinned repos below or visit my organization where I collaborate on larger projects.
 
-Here are some ideas to get you started:
+## Tech I use
+• Python • TensorFlow • PyTorch • scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• HTML5 • CSS • JS • ReactJS • NextJS
+
+• Lua
+
+• Git • Bash • Linux
+
+## Projects worth checking out
+![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - Automated translator-customer matching algorithm
+
+[Project Name 2] - brief description
+
+[Project Name 3] - brief description
+
+## Miscellaneous
+Active Anna's Archive voluntary mantainer. I speak Spanish, Catalan, English.
+
+## Get in touch
+Feel free to reach out if you want to collaborate or have any doubt about my profile.
+
+[LinkedIn](https://www.linkedin.com/in/pablo-necpas-alba-091269182/) • pablonecpas@proton.me
