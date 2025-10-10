@@ -24,9 +24,7 @@ Languages: Spanish, Catalan, English.
 ## Let's connect
 Open to collaborations and questions about my work
 
-[LinkedIn](https://www.linkedin.com/in/pablo-necpas-alba-091269182/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pablo_Necpas_Alba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablonecpas@proton.me) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-necpas-alba-091269182) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablonecpas@proton.me) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
