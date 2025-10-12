@@ -7,7 +7,7 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 ## Projects
 ![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - Web app with ML-powered translator-customer matching algorithm
 
-![MaoMao Dict](https://github.com/MaoMao-Corp/MaoMao-dict) - Browser extension popup dictionary to help language learners
+![MaoMao Dict](https://github.com/MaoMao-Corp/MaoMao-dict) - Ultra customizable web-browser extensions with popup dictionary with Anki integration
 
 ![PokeFetch](https://github.com/Discomanfulanito/Pokefetch) - Fastfetch mod that displays Pokemon sprite in your terminal 
 
