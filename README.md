@@ -15,7 +15,7 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 ## Community
 Active volunteer maintainer for Anna's Archive. 
 
-Languages: Spanish, Catalan, English.
+Languages: **Spanish, Catalan, English.**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=discomanfulanito&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=discomanfulanito&theme=aura&hide_border=false)<br/>
