@@ -13,7 +13,7 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 
 
 ## Community
-Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp.git)
+Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp)
 
 Active volunteer maintainer for Anna's Archive. 
 
