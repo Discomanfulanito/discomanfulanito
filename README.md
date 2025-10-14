@@ -15,7 +15,7 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 **es-en-cat**
 <br/><br/>
 </span>
-
+---
 
 
 ### Projects
@@ -38,9 +38,10 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Pokefetch&theme=dark"/>
 </a>
 </p>
-
-
 <br/>
+
+----
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
@@ -52,7 +53,7 @@ Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp)
 
 Active volunteer maintainer for Anna's Archive. 
 
-
+<br/>
 
 ## Let's connect
 Open to collaborations and questions about my work
