@@ -12,6 +12,7 @@
 <br/>
 I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in <strong>AI</strong> and <strong>mathematics</strong> while having fun with <strong>web development.</strong>
 
+
 🇪🇸-🇬🇧
 <br/><br/><br/><br/><br/>
 </span>
