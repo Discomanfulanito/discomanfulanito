@@ -4,7 +4,7 @@
 
 I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in **AI** and **mathematics** while having fun with **web development.**
 
-## Projects
+### Projects
 <p align="center">
 <a href="https://github.com/MaoMao-Corp/MaoMao-dict">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
