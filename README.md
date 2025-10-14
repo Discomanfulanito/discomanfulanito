@@ -11,8 +11,8 @@
   
 <br/>
 I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in <strong>AI</strong> and <strong>mathematics</strong> while having fun with <strong>web development.</strong>
-<br/><br/>
-<br/><br/>
+🇪🇸-🇬🇧
+<br/><br/><br/><br/><br/>
 </span>
 
 
@@ -39,18 +39,20 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 </p>
 
 
-### Community
+### Miscellaneous
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</picture>
 
 Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp)
 
 Active volunteer maintainer for Anna's Archive. 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 Languages: **Spanish, Catalan, English.**
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=discomanfulanito&theme=dark&hide_border=false)<br/>
+
+
 ## Let's connect
 Open to collaborations and questions about my work
 
