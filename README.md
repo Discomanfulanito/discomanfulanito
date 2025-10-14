@@ -2,40 +2,55 @@
 # Hey there 👋
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in **AI** and **mathematics** while having fun with **web development.**
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=discomanfulanito&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=discomanfulanito&show_icons=true">
+</picture>
+
+<span>
+  
+<br/>
+I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in <strong>AI</strong> and <strong>mathematics</strong> while having fun with <strong>web development.</strong>
+<br/><br/>
+<br/><br/>
+</span>
+
+
 
 ### Projects
 <p align="center">
 <a href="https://github.com/MaoMao-Corp/MaoMao-dict">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict&theme=dark" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/MaoMao-Corp/MaoMao-dict-backend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict-backend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict-backend&theme=dark" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Discomanfulanito/Automated-Assignment-System">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Automated-Assignment-System&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Automated-Assignment-System&theme=dark" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Discomanfulanito/Pokefetch">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Pokefetch&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Pokefetch&theme=dark"/>
 </a>
 </p>
 
 
-## Community
+### Community
+
 Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp)
 
 Active volunteer maintainer for Anna's Archive. 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 Languages: **Spanish, Catalan, English.**
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=discomanfulanito&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=discomanfulanito&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=discomanfulanito&theme=dark&hide_border=false)<br/>
 ## Let's connect
 Open to collaborations and questions about my work
 
