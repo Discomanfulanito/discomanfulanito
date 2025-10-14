@@ -5,12 +5,6 @@
 I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in **AI** and **mathematics** while having fun with **web development.**
 
 ## Projects
-![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - Web app with ML-powered translator-customer matching algorithm
-
-![MaoMao Dict](https://github.com/MaoMao-Corp/MaoMao-dict) - Ultra customizable web-browser extensions with popup dictionary with Anki integration
-
-![PokeFetch](https://github.com/Discomanfulanito/Pokefetch) - Fastfetch mod that displays Pokemon sprite in your terminal 
-
 <p align="center">
 <a href="https://github.com/MaoMao-Corp/MaoMao-dict">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
