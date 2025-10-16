@@ -20,26 +20,13 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 
 ### Projects
 
-<p align="center">
-<a href="https://github.com/MaoMao-Corp/MaoMao-dict">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict&theme=dark&" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/MaoMao-Corp/MaoMao-dict-backend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=MaoMao-Corp&repo=MaoMao-dict-backend&theme=dark" />
-</a>
-</p>
+![MaoMao Dict](https://github.com/MaoMao-Corp/MaoMao-dict) - Ultra customizable web-browser extensions with popup dictionary with Anki integration 
 
-<p align="center">
-<a href="https://github.com/Discomanfulanito/Automated-Assignment-System">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Automated-Assignment-System&theme=dark" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Discomanfulanito/Pokefetch">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Discomanfulanito&repo=Pokefetch&theme=dark"/>
-</a>
-</p>
-<br/>
+![MaoMao Dict Backend](https://github.com/MaoMao-Corp/MaoMao-dict-backend) -  REST API for language learning applications, text-to-speech service and personalized experience. 
+
+![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - User-friendly web ML-powered application that matches customers with translators.
+
+![PokeFetch](https://github.com/Discomanfulanito/Pokefetch) - Fastfetch mod that displays any Pokemon sprite in your terminal 
 
 ----
 
