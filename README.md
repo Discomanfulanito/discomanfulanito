@@ -44,20 +44,6 @@ I'm a third-year AI student and language enthusiast building ML projects and lea
 </table>
 
 
-
-
-| |
-
-![MaoMao Dict Backend](https://github.com/MaoMao-Corp/MaoMao-dict-backend) -  REST API for language learning applications, text-to-speech service and personalized experience. 
-
-| |
-
-![Automated Assignment Web App](https://github.com/Discomanfulanito/Automated-Assignment-System) - User-friendly web ML-powered application that matches customers with translators.
-
-| |
-
-![PokeFetch](https://github.com/Discomanfulanito/Pokefetch) - Fastfetch mod that displays any Pokemon sprite in your terminal 
-
 ----
 
 <picture>
