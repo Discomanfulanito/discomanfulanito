@@ -1,65 +1,17 @@
 # Hey there 👋
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=flat&logo=PyTorch&logoColor=white)
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=discomanfulanito&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=discomanfulanito&show_icons=true">
-</picture>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=flat&logo=PyTorch&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 
 <span>
-  
-<br/>
-I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in <strong>AI</strong> and <strong>mathematics</strong> while having fun with <strong>web development.</strong>
+I'm a third-year AI student and language enthusiast building ML projects and learning in public. Currently pursuing a dual path in <strong>AI</strong> and <strong>mathematics</strong> while having fun with <strong>web development.</strong> Interested in <strong>cryptography</strong>, <strong>natural language processing</strong> and <strong>open source software</strong>.
 
-<br/><br/>
-**es-en-cat**
+Member of [MaoMao Corp](https://github.com/MaoMao-Corp) and active volunteer for [Anna's Archive](https://annas-archive.li/). 
+
+<br/>
+<strong>es-en-cat</strong>
 <br/><br/>
 </span>
----
-
-
-### Projects
-
-<table>
-  <tr>
-    <td>
-      <a href='https://github.com/MaoMao-Corp/MaoMao-dict' target='_blank'><strong>MaoMao Dict</strong></a><br>
-          Ultra customizable web-browser extensions with popup dictionary with Anki integration 
-    </td>
-    <td>
-      <a href='https://github.com/MaoMao-Corp/MaoMao-dict-backend' target='_blank'><strong>MaoMao Dict Backend</strong></a><br>
-         REST API for language learning applications, text-to-speech service and personalized experience. 
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href='https://github.com/Discomanfulanito/Automated-Assignment-System' target='_blank'><strong>Automated Assignment System</strong></a><br>
-        User-friendly web ML-powered application that matches customers with translators
-    </td>
-    <td>
-      <a href='https://github.com/Discomanfulanito/Pokefetch' target='_blank'><strong>Pokefetch</strong></a><br>
-        Fastfetch mod that displays any Pokemon sprite in your terminal 
-    </td>
-  </tr>
-</table>
-
-
-----
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=discomanfulanito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</picture>
-
-### Community
-
-Member and Owner of [MaoMao Corp](https://github.com/MaoMao-Corp)
-
-Active volunteer maintainer for Anna's Archive. 
-
-<br/>
 
 ## Let's connect
 Open to collaborations and questions about my work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-necpas-alba-091269182) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablonecpas@proton.me) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-necpas-alba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablonecpas@proton.me) 
